@@ -1,5 +1,7 @@
-### Hi there, I'm Lindasmithhgfp 👋
+### Hi there, I'm Lindasm Ithhgfp 👋
 
-- 🔭 Full-Stack & Cloud Architecture Developer
-- 🌱 Continuous learning in Node.js, Python, and Edge Compute
-- ⚡ Fun fact: Passionate about serverless infrastructure & automation
+- 🔭 **Current Focus:** Tech enthusiast, open source contributor, and advocate for inclusive developer communities.
+- 🏢 **Organization:** Freelance Full-Stack Developer
+- 📍 **Location:** Dublin, Ireland
+- 💬 Ask me about: Web Development, Cloud Architecture, Automation & Open Source
+- ⚡ Fun fact: Passionate about continuous learning and developer tooling.
