@@ -1,7 +1,13 @@
-### Hi there, I'm Lindasm Ithhgfp 👋
+# Hi there, I'm Linda Smith 👋
 
-- 🔭 **Current Focus:** Tech enthusiast, open source contributor, and advocate for inclusive developer communities.
-- 🏢 **Organization:** Freelance Full-Stack Developer
-- 📍 **Location:** Dublin, Ireland
-- 💬 Ask me about: Web Development, Cloud Architecture, Automation & Open Source
-- ⚡ Fun fact: Passionate about continuous learning and developer tooling.
+Web Developer | Jamstack & Cloudflare Workers
+
+📍 Based in **San Francisco, CA**
+
+### 💻 Tech Stack & Interests
+- 🌐 Web Technologies: JavaScript, TypeScript, HTML5, CSS3
+- 🛠️ Tools & Environments: Git, Cloudflare, Linux, VS Code
+- 📚 Continuous Learner | Open-source enthusiast
+
+---
+*Self-taught developer building clean, high-performance web applications.*
